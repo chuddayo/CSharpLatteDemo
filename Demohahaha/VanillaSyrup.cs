@@ -1,13 +1,13 @@
-class VanillaSyrup : ToppingDecorator{
+public class VanillaSyrup : ToppingDecorator{
 
-    VanillaSyrup(EspressoBeverage newEspBev) : base(newEspBev){
+    public VanillaSyrup(EspressoBeverage newEspBev) : base(newEspBev){
         Console.WriteLine("Adding Vanilla Syrup");
 
     }
-    string getDescription(){
+    new public string getDescription(){
         return tempEspresso.getDescription() + ", Vanilla Syrup";
     }
-    double getCost(){
+    new public double getCost(){
         return tempEspresso.getCost() + 0.80;
     }
 }

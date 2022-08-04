@@ -1,0 +1,15 @@
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.csproj.AssemblyReference.cache
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.AssemblyInfoInputs.cache
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.AssemblyInfo.cs
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.csproj.CoreCompileInputs.cache
+/Users/ryan/Projects/CSharpLatteDemo/bin/Debug/net6.0/CSharpLatteDemo
+/Users/ryan/Projects/CSharpLatteDemo/bin/Debug/net6.0/CSharpLatteDemo.deps.json
+/Users/ryan/Projects/CSharpLatteDemo/bin/Debug/net6.0/CSharpLatteDemo.runtimeconfig.json
+/Users/ryan/Projects/CSharpLatteDemo/bin/Debug/net6.0/CSharpLatteDemo.dll
+/Users/ryan/Projects/CSharpLatteDemo/bin/Debug/net6.0/CSharpLatteDemo.pdb
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.dll
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/refint/CSharpLatteDemo.dll
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.pdb
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/CSharpLatteDemo.genruntimeconfig.cache
+/Users/ryan/Projects/CSharpLatteDemo/obj/Debug/net6.0/ref/CSharpLatteDemo.dll

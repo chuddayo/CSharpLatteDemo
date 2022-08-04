@@ -1,15 +1,15 @@
-abstract class ToppingDecorator : EspressoBeverage{
+public abstract class ToppingDecorator : EspressoBeverage{
 
     protected EspressoBeverage tempEspresso;
 
-    ToppingDecorator(EspressoBeverage newEspBev){
+    public ToppingDecorator(EspressoBeverage newEspBev){
         tempEspresso = newEspBev;
     }
-    string getDescription() {
+    public string getDescription() {
         return tempEspresso.getDescription();
     }
 
-    double getCost() {
+    public double getCost() {
         return tempEspresso.getCost();
     }
 }

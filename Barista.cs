@@ -1,5 +1,5 @@
-class Barista {
-        static void Main(string[] args) {
+public class Barista {
+        public static void Main(string[] args) {
 
         EspressoBeverage latte = new VanillaSyrup(new EspressoShot(new VanillaLatte()));
 

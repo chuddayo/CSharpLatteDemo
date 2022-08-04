@@ -1,7 +1,7 @@
-interface EspressoBeverage {
+public interface EspressoBeverage {
 
-    string getDescription();
+    public string getDescription();
 
-    double getCost();
+    public double getCost();
 
 }

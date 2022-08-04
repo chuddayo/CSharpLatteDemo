@@ -1,13 +1,13 @@
-class EspressoShot : ToppingDecorator{
+public class EspressoShot : ToppingDecorator{
 
-    EspressoShot(EspressoBeverage newEspBev) : base(newEspBev) {
+    public EspressoShot(EspressoBeverage newEspBev) : base(newEspBev) {
         Console.WriteLine("Adding Espresso Shot");
-        Conso;e.WriteLine("Adding Steamed Milk");
+        Console.WriteLine("Adding Steamed Milk");
     }
-    string getDescription(){
+    new public string getDescription(){
         return tempEspresso.getDescription() + ", Extra Espresso Shot";
     }
-    double getCost(){
+    new public double getCost(){
         return tempEspresso.getCost() + 1.00;
     }
 
