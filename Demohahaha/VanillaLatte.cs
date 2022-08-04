@@ -1,11 +1,10 @@
-class VanillaLatte : EspressoBeverage{
+public class VanillaLatte : EspressoBeverage {
 
-    
-    override string getDescription() {
+    public string getDescription() {
         return "Steamed Milk";
     }
 
-    override double getCost() {
+    public double getCost() {
         return 4.45;
     }
 }
